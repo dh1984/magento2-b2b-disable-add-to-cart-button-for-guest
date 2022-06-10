@@ -13,9 +13,6 @@
       "email": "slawek.bodak@gmail.com"
     }
   ],
-  "require": {
-    "php": "~7.0|~7.1|~7.2"
-  },
   "autoload": {
     "files": [
       "registration.php"
